@@ -1,4 +1,4 @@
-M = FLIR1;
+M = in10;
 M_size = size(M);
 row = M_size(1);
 col = M_size(2);
